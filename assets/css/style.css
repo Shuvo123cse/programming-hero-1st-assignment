@@ -90,19 +90,23 @@ body{
 
 .featured-flowers{
     display: flex;
-    gap:15px;
- 
-}
-
-.flower-style-1{
-    background-color: #f2dee7;
+    width:1160px;
+    margin: 0 auto;
+    gap:20px;
     
+  
+ 
 }
 
 .flower-title{
     text-align: center;
     text-decoration: underline;
     color:black;
+}
+
+.flower-style-1{
+    background-color: #f2dee7;
+    
 }
 
 .flower-style-2{
@@ -113,8 +117,52 @@ body{
     background-color: #e3ebdb;
 }
 
-/* main section style start end*/
+/* main section style end*/
 
+
+
+.flower-gift-part{
+    width:1160px;
+    margin:0 auto;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    align-items: center;
+    
+}
+
+.gift-right{
+    width:450px;
+}
+
+.birthday-gift{
+    background-color: #f8f8f8;
+    margin-top: 30px;
+}
+
+.gift-title{
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 0;
+    padding-top: 10px;
+    margin-bottom: 0;
+}
+
+.gift-extra{
+    color:#E55473;
+    font-size: 22px;
+    font-weight:600px;
+    font-family:cursive;
+    margin-bottom: 0;
+
+}
+
+.gift-description{
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 26px;
+}
 
 
 /* deal section start */
@@ -156,6 +204,10 @@ body{
     padding-right: 30px;
 }
 
+/* deal section end */
+
+/* instagram section start */
+
 .instagram{
     width:1140px
     margin: 0 auto;
@@ -173,6 +225,8 @@ body{
    gap:15px;
    
 }
+
+/* instagram section end */
 
 
 /*subscribe part start */
