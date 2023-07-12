@@ -169,11 +169,53 @@ text-align: center;
     padding-right: 30px;
 }
 
+.instagram{
+    width:1140px
+    margin: 0 auto;
 
+}
 
+.instagram-heading{
+    text-align: center;
+}
+
+.instagram-photos{
+   
+    display: flex;
+}
 
 /* main section style start end*/
 
+
+.suscribe-part{
+    
+}
+.subscribe-content{
+    padding-top: 75px;
+}
+
+.subscribe{
+    width: 1140px;
+    height:300px;
+    margin: 0 auto;
+    text-align: center;
+    background-image: url("../images/flower13.png");
+    background-repeat: no-repeat;
+    margin-bottom: 70px;
+    border-radius: 2px;
+    margin-top:70px;
+
+
+}
+.subscribe-title{
+    font-weight: 700;
+    font-size:40px;
+}
+
+.subscribe-description{
+    font-weight: 400;
+    font-size:18px;
+}
 
 
 /* footer section style start*/
@@ -182,13 +224,35 @@ text-align: center;
     background-color: black;
 }
 
+.footer-shop-title{
+    color:white;
+    font-size: 48px;
+    font-weight: 700;
+
+}
+
 .footer .footer-description {
     color:white;
 }
-.footer .footer-content{
+.footer-content{
 
     margin: 0 auto;
     text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 600px;
+}
+
+.footer-shop-title{
+    margin-bottom: 0;
+}
+
+.footer-description{
+    text-align: center;
+    font-size: 18px;
+}
+.slogan{
+    color:#E55473;
 }
 .copyright{
     color: white;
