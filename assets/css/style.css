@@ -17,3 +17,49 @@ body{
 .copyright{
     color: white;
 }
+
+.header{
+    background-color: #fceef1;
+    
+}
+
+.hero-content{
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    
+}
+.hero-section{
+    width: 708px;
+    height:506px
+}
+.hero-title{
+    font-weight: 700;
+    font-size: 80px;
+    margin-bottom: 0;
+}
+.hero-description{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 32px;
+    font-size:18px;
+    color:#272727;
+    width:600px;
+}
+.btn{
+
+margin-top: 32px;
+background-color: #E55473;
+padding: 10px 23px;
+font-size: 14px;
+font-weight: bold;
+color: white;
+border: 0;
+border-radius: 5px;
+}
+.btn a{
+    color: white;
+    text-decoration: none;
+}
