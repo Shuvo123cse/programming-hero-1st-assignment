@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.footer{
+    background-color: black;
+}
+
+.footer .footer-description {
+    color:white;
+}
+.footer .footer-content{
+
+    margin: 0 auto;
+    text-align: center;
+}
+.copyright{
+    color: white;
+}
